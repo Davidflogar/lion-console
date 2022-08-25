@@ -1,0 +1,14 @@
+{
+    "name": "lion/lion-console-package",
+    "description": "Lion console.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Lion\\LionConsole\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "symfony/console": "6.2.x-dev"
+    }
+}
