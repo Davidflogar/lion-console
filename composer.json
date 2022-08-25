@@ -7,7 +7,7 @@
             "Lion\\LionConsole\\": "src/"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "symfony/console": "6.2.x-dev"
     }
