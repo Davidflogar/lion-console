@@ -9,6 +9,6 @@
     },
     "minimum-stability": "stable",
     "require": {
-        "symfony/console": "6.2.x-dev"
+        "symfony/console": "6.1.3"
     }
 }
