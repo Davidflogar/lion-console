@@ -1,5 +1,5 @@
 {
-    "name": "lion/lion-console-package",
+    "name": "lion/lion-console",
     "description": "Lion console.",
     "type": "library",
     "license": "MIT",
