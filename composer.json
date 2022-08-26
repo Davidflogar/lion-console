@@ -2,6 +2,7 @@
     "name": "lion/lion-console-package",
     "description": "Lion console.",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Lion\\LionConsole\\": "src/"
